@@ -1,0 +1,18 @@
+Package: kadmin
+Title: kadmin: Administrative districts of Korea shapefile, sido, sigungu, eupmyeondong
+Version: 1.0.0
+Authors@R: 
+    person(given = "First",
+           family = "Last",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Administrative districts of Korea shapefile, sido, sigungu, eupmyeondong.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+LazyDataCompression: gzip
+Additional_repositories: https://github.com/SYOUNG9836/kadmin
+Depends: 
+    R (>= 3.6)
+RoxygenNote: 7.3.1
